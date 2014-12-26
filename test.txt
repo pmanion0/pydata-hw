@@ -1,3 +1,0 @@
-abcdef
-FIX #1
-FIX #2
